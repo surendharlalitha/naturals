@@ -1,0 +1,230 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px;
+    width: 100%;
+}
+.menu{
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+    align-items: center;
+    width: 80%;
+    list-style-type: none;
+    margin: 10px;
+   
+}
+nav div ul a{
+    width: 45%;
+    margin-top: 10px ;
+    text-decoration: none; 
+    color: black;
+    font-size: 17px;
+}
+.img{
+    color:rgb(96, 35, 152) ;
+    margin-left: 75px;
+    margin-top: 50px;
+    margin-right: 50%;
+    line-height: 50px;
+}
+.div3{
+    text-align: center;
+    margin-top: -200px;
+    line-height: 70px
+}
+.div4{
+    display: flex;
+    margin-left: 5%;
+    margin-top: 40px;
+}
+.div41{
+    padding-top: 35px;
+    line-height: 50px;
+    padding-left: 50px;
+}
+.button{
+   position: absolute;
+   margin-left: 50%;
+   margin-top: 330px;
+  
+   
+}
+.button a{ 
+    text-decoration: none;
+    color: white;
+}    
+.but{
+    background-color: rgb(104, 47, 157);
+    color: white;
+    height:50px; 
+    width: 180px; 
+    border-radius: 350px;
+    border: solid 1px blueviolet;
+}
+
+.but:hover{
+   color:   rgb(104, 47, 157);
+  background-color: rgb(219, 211, 241);
+   text-decoration: none;
+  
+
+} 
+.div5{
+    background-color: rgb(107, 20, 189);
+    width: 90%;
+    height: 450px;
+    margin-top: 20px;
+    margin-left: 5%;
+    display: flex;
+    
+}
+.div6{
+    color: white;
+    line-height: 60px;
+    margin-left: 60px;
+    margin-top: 40px;
+    
+}
+
+
+.div7{
+    display: flex;
+    margin-left: 5%;
+    margin-top: 40px;
+}
+.div71{
+    padding-top: 35px;
+    line-height: 50px;
+    padding-left: 50px;
+}
+.div81{
+    width: 46.5%;
+    height: 400px;
+    line-height: 40px;
+    
+}
+.div8{
+    display: flex;
+    margin-left: 5%;
+    margin-top: 40px;
+}
+.link8{
+    text-decoration: none;
+    color: white;
+}
+
+.but1{
+    background-color:white ;
+    color:  rgb(107, 20, 189);;
+    height:60px; 
+    width: 180px; 
+    border-radius: 350px;
+    border: solid 1px blueviolet;
+    margin-top: 30px;
+}
+.but1:hover{
+    text-decoration: none;
+    background-color:  rgb(107, 20, 189);
+    color: white;
+}
+.but2{
+    background-color:white ;
+    color:  rgb(96, 35, 152);
+    height:60px; 
+    width: 180px; 
+    border-radius: 350px;
+    border: solid 1px rgb(247, 244, 249);
+    margin-top: -10px;
+}
+.but2:hover{
+    text-decoration: none;
+    background-color: rgb(96, 35, 152);
+    color: white;
+}
+.but3{
+    background-color: rgb(107, 20, 189);
+    color: white;
+    height:50px; 
+    width: 180px; 
+    border-radius: 350px;
+    border: solid 1px blueviolet;
+    margin-top: 30px;
+}
+.but3:hover{
+    background-color: white;
+    color:  rgb(107, 20, 189);
+}
+.div11{
+    line-height: 40px;
+    width: 46.5%;
+    height: 400px;
+    margin-left: 20px;
+}
+.div10{
+    display: flex;
+    margin-top: -90px;
+    margin-left: 5%;
+}
+.but4{
+    background-color: rgb(107, 20, 189);
+    color: white;
+    height:50px; 
+    width: 180px; 
+    border-radius: 350px;
+    border: solid 1px blueviolet;
+    margin-top: 30px;
+}
+.div12{
+    margin-left: 5%;
+    margin-right: 55%;
+    margin-top: 30px;
+   
+}
+.img5{
+    text-align: center;
+    margin-top: 80px;
+}
+.footer{
+    justify-content: space-between;
+    text-align: center;
+    width: 100%;
+    display: flex;
+    background-color: rgb(88, 20, 151);
+    margin-top: 300px;
+    padding-left: 5%;
+    padding-right: 10%;
+    height: 350px;
+    line-height: 40px;
+}
+footer ul li{
+    list-style-type: none;
+    color: white;
+    text-align: left;
+}
+    
+footer div ul a{
+    text-decoration: none;
+    color:white;
+    text-align: left;
+}
+.icon{
+    margin-left: 30px;
+}
+.last{
+    background-color: rgb(88, 20, 151);
+    margin-top: 2px;
+    color: white;
+    padding-left: 7%;
+    display: flex;
+    padding-top: 10px;
+    
+}
+.pl{
+    padding-left: 62%;
+}
